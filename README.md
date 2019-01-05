@@ -1,3 +1,2 @@
 # README #
- this is an edit made on remote repository.
-This is a second edit made on remote.
+This is a test repository for tinkering.
